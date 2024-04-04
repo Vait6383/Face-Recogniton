@@ -1,1 +1,1 @@
-# Face-Recogniton
+# face_recognition_project
